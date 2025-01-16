@@ -1,2 +1,2 @@
 # Sahils-Repo
-Welcome to my repository, don't stick around for too long 
+Welcome to my repository!
